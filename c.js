@@ -1,1 +1,1 @@
-console.log("Cmd2");
+console.log("Cmd feature");
