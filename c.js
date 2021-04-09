@@ -1,1 +1,1 @@
-console.log("Cmd JS");
+console.log("Cmd2");
